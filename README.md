@@ -1,4 +1,6 @@
 # Telegram Voice-Chat Bot
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darshanjk/nkl-musiq)
+
 
 Just Another [Obviously better!] Telegram Voice-Chat Bot To Play Music From Various Sources In Your Group
 
